@@ -22,8 +22,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.ibb.co/Wfb8hsT/Peek-2023-02-05-23-41.gif' width='' alt='Video Walkthrough' />
+<img src='https://i.ibb.co/vwSQ46Z/Peek-2023-02-05-23-49.gif' width='' alt='Video Walkthrough' />
 GIF created with https://github.com/phw/peek
+
+
+
 
 
 ## Notes
