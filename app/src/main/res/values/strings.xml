@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prework</string>
+    <string name="IntroText">Hello World, this is Emmanuel\'s First Kotlin App</string>
+    <string name="button_text">Say Hello</string>
+</resources>
